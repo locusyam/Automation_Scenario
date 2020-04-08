@@ -1,0 +1,35 @@
+<?xml version = "1.0"?>
+<Buildings>
+	<Building>
+		<Structure>Burj Khalifa</Structure>
+		<Country>UAE</Country>
+		<City>Dubai</City>
+		<Height>829m</Height>
+		<Built>2010</Built>
+		<Rank>1</Rank>
+	</Building>
+	<Building>
+		<Structure>Clock Tower Hotel</Structure>
+		<Country>Saudi Arabia</Country>
+		<City>Mecca</City>
+		<Height>601m</Height>
+		<Built>2012</Built>
+		<Rank>2</Rank>
+	</Building>
+	<Building>
+		<Structure>Taipei 101</Structure>
+		<Country>Taiwan</Country>
+		<City>Taipei</City>
+		<Height>509m</Height>
+		<Built>2004</Built>
+		<Rank>3</Rank>
+	</Building>
+	<Building>
+		<Structure>Financial Center</Structure>
+		<Country>China</Country>
+		<City>Shanghai</City>
+		<Height>492m</Height>
+		<Built>2008</Built>
+		<Rank>4</Rank>
+	</Building>
+</Buildings>

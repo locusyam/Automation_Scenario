@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c128758c-2ac4-4850-b008-1b214a9069f1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZpwAw0sub6HUoAT1NHyccqN23c" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/webdriver" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Craig Yam\Documents\Test1\src\main\resources\webdriver" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Craig Yam\Documents\Test1\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.ContineoTest.RunIncorrectKeyTest">
+    <configuration name="ContineoTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Test1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ContineoTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContineoTest.RunFailTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Test1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ContineoTest" />
+      <option name="METHOD_NAME" value="RunFailTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContineoTest.RunIncorrectKeyTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Test1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ContineoTest" />
+      <option name="METHOD_NAME" value="RunIncorrectKeyTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContineoTest.RunMissingFieldTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Test1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ContineoTest" />
+      <option name="METHOD_NAME" value="RunMissingFieldTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContineoTest.RunTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Test1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ContineoTest" />
+      <option name="METHOD_NAME" value="RunTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.ContineoTest.RunIncorrectKeyTest" />
+        <item itemvalue="TestNG.ContineoTest.RunFailTest" />
+        <item itemvalue="TestNG.ContineoTest.RunTest" />
+        <item itemvalue="TestNG.ContineoTest.RunMissingFieldTest" />
+        <item itemvalue="TestNG.ContineoTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c128758c-2ac4-4850-b008-1b214a9069f1" name="Default Changelist" comment="" />
+      <created>1585549203688</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585549203688</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="860" y="493" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585560940747">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="860" y="493" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1585560940747" />
+    <state width="2517" height="400" key="GridCell.Tab.0.bottom" timestamp="1585904877037">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="400" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1585904877037" />
+    <state width="2517" height="400" key="GridCell.Tab.0.center" timestamp="1585904877037">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="400" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1585904877037" />
+    <state width="2517" height="400" key="GridCell.Tab.0.left" timestamp="1585904877037">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="400" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1585904877037" />
+    <state width="2517" height="400" key="GridCell.Tab.0.right" timestamp="1585904877037">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="400" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1585904877037" />
+    <state width="1876" height="398" key="GridCell.Tab.1.bottom" timestamp="1585568475700">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1876" height="398" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1585568475700" />
+    <state width="1876" height="398" key="GridCell.Tab.1.center" timestamp="1585568475700">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1876" height="398" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1585568475700" />
+    <state width="1876" height="398" key="GridCell.Tab.1.left" timestamp="1585568475700">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1876" height="398" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1585568475700" />
+    <state width="1876" height="398" key="GridCell.Tab.1.right" timestamp="1585568475700">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1876" height="398" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1585568475700" />
+    <state x="869" y="358" key="SettingsEditor" timestamp="1585558670524">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="869" y="358" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1585558670524" />
+    <state width="967" height="587" key="XDebugger.FullValuePopup" timestamp="1585561816884">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="967" height="587" key="XDebugger.FullValuePopup/0.0.2560.1400@0.0.2560.1400" timestamp="1585561816884" />
+    <state x="828" y="430" key="new project wizard" timestamp="1585566797301">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="828" y="430" key="new project wizard/0.0.2560.1400@0.0.2560.1400" timestamp="1585566797301" />
+    <state x="1024" y="340" key="run.anything.popup" timestamp="1585566020451">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1024" y="340" key="run.anything.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1585566020451" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="TestNG">
+        <watch expression="TestBody.get(0).getText().split(&quot;\n&quot;).length" language="JAVA" />
+        <watch expression="TestHeader.get(0).getText().split(&quot; &quot;).length" language="JAVA" />
+        <watch expression="TestHeader.get(0).findElements(By.tagName(&quot;th&quot;)).get(1).getText()" language="JAVA" />
+        <watch expression="TestBody.get(0).findElements(By.tagName(&quot;tr&quot;)).get(1).getText()" language="JAVA" />
+        <watch expression="TestBody.get(0).findElements(By.tagName(&quot;tr&quot;)).get(0).findElements(By.tagName(&quot;td&quot;)).get(1).getText()" language="JAVA" />
+        <watch expression="TestBody.get(0).findElements(By.tagName(&quot;tr&quot;)).get(1).findElements(By.tagName(&quot;th&quot;)).get(0).getText()" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
