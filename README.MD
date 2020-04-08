@@ -34,4 +34,4 @@ Two classes are created to handle the data loading:
  The test allows user to specify which field to compare by using different argument between the data loading from these 2 classes
  
  How to run?
- 1. Use Intellij to excute the ContineoTest, the project is not yet configure to support command line test run
+ 1. Use Intellij to excute the FunctionTest, the project is not yet configure to support command line test run

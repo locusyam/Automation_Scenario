@@ -3,7 +3,7 @@ import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
-public class ContineoTest {
+public class FunctionTest {
     public Parser TestDoc;
     public WebParser TestWeb;
 

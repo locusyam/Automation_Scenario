@@ -14,6 +14,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -29,7 +32,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/webdriver" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -43,11 +46,11 @@
       <recent name="C:\Users\Craig Yam\Documents\Test1\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.ContineoTest.RunIncorrectKeyTest">
-    <configuration name="ContineoTest" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager">
+    <configuration name="FunctionTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Test1" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ContineoTest" />
+      <option name="MAIN_CLASS_NAME" value="FunctionTest" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -55,10 +58,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ContineoTest.RunFailTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="FunctionTest.RunFailTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Test1" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ContineoTest" />
+      <option name="MAIN_CLASS_NAME" value="FunctionTest" />
       <option name="METHOD_NAME" value="RunFailTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -67,10 +70,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ContineoTest.RunIncorrectKeyTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="FunctionTest.RunIncorrectKeyTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Test1" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ContineoTest" />
+      <option name="MAIN_CLASS_NAME" value="FunctionTest" />
       <option name="METHOD_NAME" value="RunIncorrectKeyTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -79,10 +82,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ContineoTest.RunMissingFieldTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="FunctionTest.RunMissingFieldTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Test1" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ContineoTest" />
+      <option name="MAIN_CLASS_NAME" value="FunctionTest" />
       <option name="METHOD_NAME" value="RunMissingFieldTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -91,10 +94,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ContineoTest.RunTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="FunctionTest.RunTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Test1" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ContineoTest" />
+      <option name="MAIN_CLASS_NAME" value="FunctionTest" />
       <option name="METHOD_NAME" value="RunTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -105,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.ContineoTest.RunIncorrectKeyTest" />
-        <item itemvalue="TestNG.ContineoTest.RunFailTest" />
-        <item itemvalue="TestNG.ContineoTest.RunTest" />
-        <item itemvalue="TestNG.ContineoTest.RunMissingFieldTest" />
-        <item itemvalue="TestNG.ContineoTest" />
+        <item itemvalue="TestNG.FunctionTest.RunIncorrectKeyTest" />
+        <item itemvalue="TestNG.FunctionTest.RunFailTest" />
+        <item itemvalue="TestNG.FunctionTest.RunTest" />
+        <item itemvalue="TestNG.FunctionTest.RunMissingFieldTest" />
+        <item itemvalue="TestNG.FunctionTest" />
       </list>
     </recent_temporary>
   </component>
